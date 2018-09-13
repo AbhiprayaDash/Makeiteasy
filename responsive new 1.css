@@ -1,0 +1,42 @@
+@media (min-width: 992px) and (max-width: 1199px){
+	.be{
+		margin-top:300px;
+	}
+	.inner{
+		float:right;
+	}
+	.content{
+		float:left;
+		margin-top:250px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+		.be{
+		margin-top:300px;
+	}
+	.inner{
+		float:right;
+	}
+	.content{
+		float:left;
+		margin-top:250px;
+	}
+}
+@media (max-width: 768px) {
+	#frm {
+    width: 80%;
+    margin: 20px auto;
+	
+}
+#abt{
+	background-color:white;
+	height:700px;
+	vertical-align:center;
+	margin-left:0px;
+	width:50%;
+}
+#vssut{
+	display:none;
+}
+}
+	
